@@ -38,6 +38,7 @@
 }
 
 .the-end {
+    left: 400px;
     position: absolute;
     width: 250px;   
 }
